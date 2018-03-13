@@ -1,13 +1,13 @@
-# Hexo Configuration
+ï»¿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Ğ¡±¿ĞÜµÄÂÃÍ¾
+title: å°ç¬¨ç†Šçš„æ—…é€”
 subtitle:
 description:
 author: Hitobear
-language:
+language: zh-Hans
 timezone:
 
 # URL
