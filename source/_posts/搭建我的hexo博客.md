@@ -80,7 +80,7 @@ git commit -m "first commit"
 git add origin git@github.com:hitobear/blog-generator.git
 git push -u origin master
 ```
-执行完这几个命令后，博客的源码地址，就会出现在`blog-generator`仓库了，以后每次变更博客内容后，在执行`hexo generator && hexo deploy`命令之后，再执行 `git add ,git commit,git push`即可将最新的博客内容包括原始的markdown文件提交到`blog-generator`仓库了~
+执行完这几个命令后，博客的源码，就会出现在`blog-generator`仓库了，以后每次变更博客内容后，在执行`hexo generator && hexo deploy`命令之后，再执行 `git add ,git commit,git push`即可将最新的博客内容包括原始的markdown文件提交到`blog-generator`仓库了~
 
 # gitPage仓库的配置
 
